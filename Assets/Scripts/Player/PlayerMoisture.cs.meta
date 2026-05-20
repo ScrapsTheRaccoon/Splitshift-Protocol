@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 592121209e99d4b46ba0b8902818d908
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hydrateClip: {fileID: 8300000, guid: cba7e251aad0c04499e3cb909f0d24b2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

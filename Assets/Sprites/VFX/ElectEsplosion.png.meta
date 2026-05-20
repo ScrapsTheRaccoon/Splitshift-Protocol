@@ -1,0 +1,878 @@
+fileFormatVersion: 2
+guid: cd6a4ac6e21452b46867aa62733f879e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2060640436106832873
+    second: ElectEsplosion_0
+  - first:
+      213: -5130469857112863306
+    second: ElectEsplosion_1
+  - first:
+      213: -935619389423724099
+    second: ElectEsplosion_2
+  - first:
+      213: -894843595096543860
+    second: ElectEsplosion_3
+  - first:
+      213: -8419353140140355763
+    second: ElectEsplosion_4
+  - first:
+      213: 5546533695708477541
+    second: ElectEsplosion_5
+  - first:
+      213: 323902998664330933
+    second: ElectEsplosion_6
+  - first:
+      213: 1083060804580139919
+    second: ElectEsplosion_7
+  - first:
+      213: -4640536178514588626
+    second: ElectEsplosion_8
+  - first:
+      213: 4749297578157545995
+    second: ElectEsplosion_9
+  - first:
+      213: -1780966048207443065
+    second: ElectEsplosion_10
+  - first:
+      213: 1303880951546529727
+    second: ElectEsplosion_11
+  - first:
+      213: 1593695629172636285
+    second: ElectEsplosion_12
+  - first:
+      213: 7622002200419243193
+    second: ElectEsplosion_13
+  - first:
+      213: -5061800686763180306
+    second: ElectEsplosion_14
+  - first:
+      213: -1074899169512693600
+    second: ElectEsplosion_15
+  - first:
+      213: 8138840326026333188
+    second: ElectEsplosion_16
+  - first:
+      213: -4506670283146067623
+    second: ElectEsplosion_17
+  - first:
+      213: -5030898895008244154
+    second: ElectEsplosion_18
+  - first:
+      213: 5411786944457115453
+    second: ElectEsplosion_19
+  - first:
+      213: -6275711883934271376
+    second: ElectEsplosion_20
+  - first:
+      213: 673195362188397370
+    second: ElectEsplosion_21
+  - first:
+      213: 8022602630591125463
+    second: ElectEsplosion_22
+  - first:
+      213: -7715557710610090334
+    second: ElectEsplosion_23
+  - first:
+      213: 8931155051916231686
+    second: ElectEsplosion_24
+  - first:
+      213: -6353161374187214937
+    second: ElectEsplosion_25
+  - first:
+      213: -8522316830266127676
+    second: ElectEsplosion_26
+  - first:
+      213: 6782686386024183942
+    second: ElectEsplosion_27
+  - first:
+      213: -129678919218211887
+    second: ElectEsplosion_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElectEsplosion_0
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 38
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714db0ce0722763e0800000000000000
+      internalID: -2060640436106832873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 9
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd40fbe8d8ecc8b0800000000000000
+      internalID: -5130469857112863306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 40
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db95e685f130403f0800000000000000
+      internalID: -935619389423724099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dacb8cd70e493f0800000000000000
+      internalID: -894843595096543860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 23
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f4d5b3de2782b80800000000000000
+      internalID: -8419353140140355763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568307b620f39fc40800000000000000
+      internalID: 5546533695708477541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1
+        width: 118
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be3219af0cbe7400800000000000000
+      internalID: 323902998664330933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 8
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83e52f301ec70f00800000000000000
+      internalID: 1083060804580139919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 33
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c0a48aee0899fb0800000000000000
+      internalID: -4640536178514588626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 33
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a14b60cf4e8e140800000000000000
+      internalID: 4749297578157545995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b609ba0dcb847e0800000000000000
+      internalID: -1780966048207443065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7445231d0581210800000000000000
+      internalID: 1303880951546529727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 16
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a7de02bb1fd1610800000000000000
+      internalID: 1593695629172636285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 17
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b41c314e9ac6c960800000000000000
+      internalID: 7622002200419243193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeef6ad081fd0c9b0800000000000000
+      internalID: -5061800686763180306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 29
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a065df76e03511f0800000000000000
+      internalID: -1074899169512693600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 20
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c8c64b728f2f070800000000000000
+      internalID: 8138840326026333188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 17
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951054d31471571c0800000000000000
+      internalID: -4506670283146067623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_18
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 16
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ed02e1c18ae2ab0800000000000000
+      internalID: -5030898895008244154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3786789d878a1b40800000000000000
+      internalID: 5411786944457115453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_20
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 30
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078766daa4138e8a0800000000000000
+      internalID: -6275711883934271376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_21
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 4
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b0eab7d9ba75900800000000000000
+      internalID: 673195362188397370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_22
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 16
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d79f724692065f60800000000000000
+      internalID: 8022602630591125463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_23
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a63f071425dce490800000000000000
+      internalID: -7715557710610090334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604076f4336d1fb70800000000000000
+      internalID: 8931155051916231686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7a6d2046905d7a0800000000000000
+      internalID: -6353161374187214937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_26
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 4
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca87acfef5aab980800000000000000
+      internalID: -8522316830266127676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_27
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68879d5f451f02e50800000000000000
+      internalID: 6782686386024183942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectEsplosion_28
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d35425c5b9433ef0800000000000000
+      internalID: -129678919218211887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ElectEsplosion_0: -2060640436106832873
+      ElectEsplosion_1: -5130469857112863306
+      ElectEsplosion_10: -1780966048207443065
+      ElectEsplosion_11: 1303880951546529727
+      ElectEsplosion_12: 1593695629172636285
+      ElectEsplosion_13: 7622002200419243193
+      ElectEsplosion_14: -5061800686763180306
+      ElectEsplosion_15: -1074899169512693600
+      ElectEsplosion_16: 8138840326026333188
+      ElectEsplosion_17: -4506670283146067623
+      ElectEsplosion_18: -5030898895008244154
+      ElectEsplosion_19: 5411786944457115453
+      ElectEsplosion_2: -935619389423724099
+      ElectEsplosion_20: -6275711883934271376
+      ElectEsplosion_21: 673195362188397370
+      ElectEsplosion_22: 8022602630591125463
+      ElectEsplosion_23: -7715557710610090334
+      ElectEsplosion_24: 8931155051916231686
+      ElectEsplosion_25: -6353161374187214937
+      ElectEsplosion_26: -8522316830266127676
+      ElectEsplosion_27: 6782686386024183942
+      ElectEsplosion_28: -129678919218211887
+      ElectEsplosion_3: -894843595096543860
+      ElectEsplosion_4: -8419353140140355763
+      ElectEsplosion_5: 5546533695708477541
+      ElectEsplosion_6: 323902998664330933
+      ElectEsplosion_7: 1083060804580139919
+      ElectEsplosion_8: -4640536178514588626
+      ElectEsplosion_9: 4749297578157545995
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

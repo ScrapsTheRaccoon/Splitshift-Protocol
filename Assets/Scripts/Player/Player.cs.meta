@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd375a445af114845886cd673a082f68
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - respawnFxPrefab: {instanceID: 0}
+  - deathFxPrefab: {instanceID: 0}
+  - landClip: {fileID: 8300000, guid: 4535d47a2ac2a4d41a0b7a5dc83f9454, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

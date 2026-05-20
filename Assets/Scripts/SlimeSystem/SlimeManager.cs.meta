@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 383a9895af5f6134eabe9ed9b3b4abe7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _largeSlimePrefab: {fileID: 4811565735435505245, guid: 880358b2e6516ef48b50d4369dcfa407, type: 3}
+  - _mediumSlimePrefab: {fileID: 6767193643988427988, guid: fdc31312754f02e49b6c04fb3ffb5f89, type: 3}
+  - _smallSlimePrefab: {fileID: 8089287249751637077, guid: 3e2f98b3de8928f4fb7703fdfe6a4af5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

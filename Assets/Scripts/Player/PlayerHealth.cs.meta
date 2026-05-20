@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 549a82c46660c6a4baa80deafb79cc82
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - regenParticles: {instanceID: 0}
+  - hurtClip: {fileID: 8300000, guid: 16331a5d738dd8649be5e07a8ddde0be, type: 3}
+  - deathClip: {fileID: 8300000, guid: 5bcbad2541d08c542a24fd75c344f003, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

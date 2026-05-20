@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: edf4375c9a966564ca592828c5a9ca2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3083268657619662830
+    second: SLIME PLATFORMER_STRIP_JumpGround_0
+  - first:
+      213: -2054756348323791959
+    second: SLIME PLATFORMER_STRIP_JumpGround_1
+  - first:
+      213: -1417175806715798305
+    second: SLIME PLATFORMER_STRIP_JumpGround_2
+  - first:
+      213: -6511079620421014892
+    second: SLIME PLATFORMER_STRIP_JumpGround_3
+  - first:
+      213: 3925895001754648803
+    second: SLIME PLATFORMER_STRIP_JumpGround_4
+  - first:
+      213: -8819089142514622233
+    second: SLIME PLATFORMER_STRIP_JumpGround_5
+  - first:
+      213: -8598614399956369990
+    second: SLIME PLATFORMER_STRIP_JumpGround_6
+  - first:
+      213: 1056582399477781765
+    second: SLIME PLATFORMER_STRIP_JumpGround_7
+  - first:
+      213: 1575887560611748578
+    second: SLIME PLATFORMER_STRIP_JumpGround_8
+  - first:
+      213: -549260814939842290
+    second: SLIME PLATFORMER_STRIP_JumpGround_9
+  - first:
+      213: 6900606564024297912
+    second: SLIME PLATFORMER_STRIP_JumpGround_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SLIME PLATFORMER_STRIP_JumpGround_0
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 17
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2180c73ed770635d0800000000000000
+      internalID: -3083268657619662830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME PLATFORMER_STRIP_JumpGround_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 28
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab7e2edcf90c73e0800000000000000
+      internalID: -2054756348323791959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME PLATFORMER_STRIP_JumpGround_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 44
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc5d60cc1e255ce0800000000000000
+      internalID: -1417175806715798305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME PLATFORMER_STRIP_JumpGround_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 32
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a2588159ff3a5a0800000000000000
+      internalID: -6511079620421014892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME PLATFORMER_STRIP_JumpGround_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 17
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0411d24b49b7630800000000000000
+      internalID: 3925895001754648803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME PLATFORMER_STRIP_JumpGround_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 17
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e069e1862d4c9580800000000000000
+      internalID: -8819089142514622233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME PLATFORMER_STRIP_JumpGround_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 17
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdba0ab2c59ba880800000000000000
+      internalID: -8598614399956369990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME PLATFORMER_STRIP_JumpGround_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 17
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5059dc4281cb9ae00800000000000000
+      internalID: 1056582399477781765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME PLATFORMER_STRIP_JumpGround_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 17
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea5830136daed510800000000000000
+      internalID: 1575887560611748578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME PLATFORMER_STRIP_JumpGround_9
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 17
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09187ce232a068f0800000000000000
+      internalID: -549260814939842290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIME PLATFORMER_STRIP_JumpGround_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 17
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9a567eb11e3cf50800000000000000
+      internalID: 6900606564024297912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SLIME PLATFORMER_STRIP_JumpGround_0: -3083268657619662830
+      SLIME PLATFORMER_STRIP_JumpGround_1: -2054756348323791959
+      SLIME PLATFORMER_STRIP_JumpGround_10: 6900606564024297912
+      SLIME PLATFORMER_STRIP_JumpGround_2: -1417175806715798305
+      SLIME PLATFORMER_STRIP_JumpGround_3: -6511079620421014892
+      SLIME PLATFORMER_STRIP_JumpGround_4: 3925895001754648803
+      SLIME PLATFORMER_STRIP_JumpGround_5: -8819089142514622233
+      SLIME PLATFORMER_STRIP_JumpGround_6: -8598614399956369990
+      SLIME PLATFORMER_STRIP_JumpGround_7: 1056582399477781765
+      SLIME PLATFORMER_STRIP_JumpGround_8: 1575887560611748578
+      SLIME PLATFORMER_STRIP_JumpGround_9: -549260814939842290
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 20f7171e8c445304da2acb1def8d4ca4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _groundCheck: {instanceID: 0}
+  - walkClip: {fileID: 8300000, guid: b020cc1cf3ddb3b4ea7c552fded0f50f, type: 3}
+  - jumpClip: {fileID: 8300000, guid: bc6551d73c5e7c94da4dc6b0f46e7868, type: 3}
+  - idleClip: {fileID: 8300000, guid: 37a6f38da3bb0474693cc00fc4cd8ac2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,924 @@
+fileFormatVersion: 2
+guid: 28bd8834e7ea18c48957b4981aafe35b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2178265904685005271
+    second: GUI (1)_0
+  - first:
+      213: 2179049787029038354
+    second: GUI (1)_1
+  - first:
+      213: 3042045423602152489
+    second: GUI (1)_2
+  - first:
+      213: -7852072007626139717
+    second: GUI (1)_3
+  - first:
+      213: 3653220829756051887
+    second: GUI (1)_4
+  - first:
+      213: -8275659663296216052
+    second: GUI (1)_5
+  - first:
+      213: -2445986025953530473
+    second: GUI (1)_6
+  - first:
+      213: 5279132733286635197
+    second: GUI (1)_7
+  - first:
+      213: -2821471752700759180
+    second: GUI (1)_8
+  - first:
+      213: -7242835957605094056
+    second: GUI (1)_9
+  - first:
+      213: -5602953063482720884
+    second: GUI (1)_10
+  - first:
+      213: -11225606512139359
+    second: GUI (1)_11
+  - first:
+      213: -3742186351405734538
+    second: GUI (1)_12
+  - first:
+      213: -3199571313635871554
+    second: GUI (1)_13
+  - first:
+      213: 7090435742645667715
+    second: GUI (1)_14
+  - first:
+      213: -3657048536112502067
+    second: GUI (1)_15
+  - first:
+      213: -8201775003500752376
+    second: GUI (1)_16
+  - first:
+      213: -3097310807642510600
+    second: GUI (1)_17
+  - first:
+      213: 7595597896984776242
+    second: GUI (1)_18
+  - first:
+      213: -8064914360263151079
+    second: GUI (1)_19
+  - first:
+      213: 1171785537821048496
+    second: GUI (1)_20
+  - first:
+      213: 6950180313653904188
+    second: GUI (1)_21
+  - first:
+      213: 3779708515968043929
+    second: GUI (1)_22
+  - first:
+      213: -7267452330398753936
+    second: GUI (1)_23
+  - first:
+      213: 2459248535372686384
+    second: GUI (1)_24
+  - first:
+      213: -2497686716510314591
+    second: GUI (1)_25
+  - first:
+      213: 3967653992436466312
+    second: GUI (1)_26
+  - first:
+      213: -465077050836600320
+    second: GUI (1)_27
+  - first:
+      213: 8814495344131435666
+    second: GUI (1)_28
+  - first:
+      213: -8298660254669550474
+    second: GUI (1)_29
+  - first:
+      213: -8524808501850536142
+    second: GUI (1)_30
+  - first:
+      213: -6760430903495990774
+    second: GUI (1)_31
+  - first:
+      213: -1714408943439769835
+    second: GUI (1)_32
+  - first:
+      213: 6027493387062431554
+    second: GUI (1)_33
+  - first:
+      213: 6057982848053579121
+    second: GUI (1)_34
+  - first:
+      213: -3630758569279618389
+    second: GUI (1)_35
+  - first:
+      213: -3888092679692623267
+    second: GUI (1)_36
+  - first:
+      213: -8355865183417131007
+    second: GUI (1)_37
+  - first:
+      213: -6742270728771310786
+    second: GUI (1)_38
+  - first:
+      213: 3224225775557578089
+    second: GUI (1)_39
+  - first:
+      213: -8730384023556202799
+    second: GUI (1)_40
+  - first:
+      213: -5035379148223221133
+    second: GUI (1)_41
+  - first:
+      213: 4526028993640987234
+    second: GUI (1)_42
+  - first:
+      213: -8904771890673367525
+    second: GUI (1)_43
+  - first:
+      213: -288452383173124279
+    second: GUI (1)_44
+  - first:
+      213: -3628350922996997436
+    second: GUI (1)_45
+  - first:
+      213: 174548091621994911
+    second: GUI (1)_46
+  - first:
+      213: 1519412064832660841
+    second: GUI (1)_47
+  - first:
+      213: 7502133979192547300
+    second: GUI (1)_48
+  - first:
+      213: -9019766048095911177
+    second: GUI (1)_49
+  - first:
+      213: 6558772544965984583
+    second: GUI (1)_50
+  - first:
+      213: -793672302842035701
+    second: GUI (1)_51
+  - first:
+      213: -5145402735167640444
+    second: GUI (1)_52
+  - first:
+      213: -9172161166913081256
+    second: GUI (1)_53
+  - first:
+      213: -710794067275419824
+    second: GUI (1)_54
+  - first:
+      213: 123606532663048679
+    second: GUI (1)_55
+  - first:
+      213: -7765564165589865652
+    second: GUI (1)_56
+  - first:
+      213: -3121290922212858888
+    second: GUI (1)_57
+  - first:
+      213: -8876438826079032182
+    second: GUI (1)_58
+  - first:
+      213: -5912179813827190261
+    second: GUI (1)_59
+  - first:
+      213: 972256183163901480
+    second: GUI (1)_60
+  - first:
+      213: -9171536353546451608
+    second: GUI (1)_61
+  - first:
+      213: 846894571271562281
+    second: GUI (1)_62
+  - first:
+      213: 896471751425445149
+    second: GUI (1)_63
+  - first:
+      213: 1698077262427261732
+    second: GUI (1)_64
+  - first:
+      213: -8348756676492359116
+    second: GUI (1)_65
+  - first:
+      213: 8269387327340697597
+    second: GUI (1)_66
+  - first:
+      213: 2861221316432593632
+    second: GUI (1)_67
+  - first:
+      213: -2036087850276431900
+    second: GUI (1)_68
+  - first:
+      213: -4511278650360531095
+    second: GUI (1)_69
+  - first:
+      213: 1700862238130727447
+    second: GUI (1)_70
+  - first:
+      213: -3071384201318703936
+    second: GUI (1)_71
+  - first:
+      213: 9007881804263776350
+    second: GUI (1)_72
+  - first:
+      213: -1074900109088455434
+    second: GUI (1)_73
+  - first:
+      213: -715439685074290143
+    second: GUI (1)_74
+  - first:
+      213: -1405051919322087677
+    second: GUI (1)_75
+  - first:
+      213: 2828665091571453432
+    second: GUI (1)_76
+  - first:
+      213: -3646650374194917465
+    second: GUI (1)_77
+  - first:
+      213: 1813880864989424299
+    second: GUI (1)_78
+  - first:
+      213: -1985627302623562666
+    second: GUI (1)_79
+  - first:
+      213: 4001492879385954922
+    second: GUI (1)_80
+  - first:
+      213: 6041738135880556294
+    second: GUI (1)_81
+  - first:
+      213: 3241177914730617425
+    second: GUI (1)_82
+  - first:
+      213: 8413506712124723886
+    second: GUI (1)_83
+  - first:
+      213: 1305452432421807500
+    second: GUI (1)_84
+  - first:
+      213: -7982532054943264677
+    second: GUI (1)_85
+  - first:
+      213: 7971510055407988723
+    second: GUI (1)_86
+  - first:
+      213: 4015744099127787690
+    second: GUI (1)_87
+  - first:
+      213: 242571269544482948
+    second: GUI (1)_88
+  - first:
+      213: 6040440447043274650
+    second: GUI (1)_89
+  - first:
+      213: 1397364072790615076
+    second: GUI (1)_90
+  - first:
+      213: -7034069215636717934
+    second: GUI (1)_91
+  - first:
+      213: 3969638688648177187
+    second: GUI (1)_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GUI (1)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 226
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 5, z: 5, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926c7ec53be35c1e0800000000000000
+      internalID: -2178265904685005271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215a1c77c3a8d3e10800000000000000
+      internalID: 2179049787029038354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI (1)_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 209
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924b8600234873a20800000000000000
+      internalID: 3042045423602152489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI (1)_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7d7a27c16d70390800000000000000
+      internalID: -7852072007626139717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI (1)_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 231
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1daa33df8d2b230800000000000000
+      internalID: 3653220829756051887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI (1)_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 177
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04433fe163f62d80800000000000000
+      internalID: -8275659663296216052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI (1)_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 209
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 4, z: 3, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d68753bac1e0ed0800000000000000
+      internalID: -2445986025953530473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI (1)_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 209
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 4, z: 0, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6dfa9304f334940800000000000000
+      internalID: 5279132733286635197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI (1)_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 193
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 3, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473f874c36e18d8d0800000000000000
+      internalID: -2821471752700759180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI (1)_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 193
+        width: 46
+        height: 13
+      alignment: 9
+      pivot: {x: 0.6105623, y: 0.5318005}
+      border: {x: 3, y: 3, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85da58c12174c7b90800000000000000
+      internalID: -7242835957605094056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI (1)_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 177
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 4, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dfceddfdf4e32b0800000000000000
+      internalID: -5602953063482720884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI (1)_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 177
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 5, z: 4, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3a47fce5e18dff0800000000000000
+      internalID: -11225606512139359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI (1)_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67565212755111cc0800000000000000
+      internalID: -3742186351405734538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI (1)_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb43431a7d6d893d0800000000000000
+      internalID: -3199571313635871554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI (1)_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387c02fbdb9466260800000000000000
+      internalID: 7090435742645667715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI (1)_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 50
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcae6a67bbd8f3dc0800000000000000
+      internalID: -3657048536112502067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI (1)_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802d8a4d6117d2e80800000000000000
+      internalID: -8201775003500752376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI (1)_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 258
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 0, z: 5, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa6d7f0b342405d0800000000000000
+      internalID: -3097310807642510600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI (1)_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 243
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 0, z: 4, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e4b7a4b0cf86960800000000000000
+      internalID: 7595597896984776242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b2dbbfac2e5ad2f42b195b0fed41bb63
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GUI (1)_0: -2178265904685005271
+      GUI (1)_1: 2179049787029038354
+      GUI (1)_10: -5602953063482720884
+      GUI (1)_11: -11225606512139359
+      GUI (1)_12: -3742186351405734538
+      GUI (1)_13: -3199571313635871554
+      GUI (1)_14: 7090435742645667715
+      GUI (1)_15: -3657048536112502067
+      GUI (1)_16: -8201775003500752376
+      GUI (1)_17: -3097310807642510600
+      GUI (1)_18: 7595597896984776242
+      GUI (1)_19: -8064914360263151079
+      GUI (1)_2: 3042045423602152489
+      GUI (1)_20: 1171785537821048496
+      GUI (1)_21: 6950180313653904188
+      GUI (1)_22: 3779708515968043929
+      GUI (1)_23: -7267452330398753936
+      GUI (1)_24: 2459248535372686384
+      GUI (1)_25: -2497686716510314591
+      GUI (1)_26: 3967653992436466312
+      GUI (1)_27: -465077050836600320
+      GUI (1)_28: 8814495344131435666
+      GUI (1)_29: -8298660254669550474
+      GUI (1)_3: -7852072007626139717
+      GUI (1)_30: -8524808501850536142
+      GUI (1)_31: -6760430903495990774
+      GUI (1)_32: -1714408943439769835
+      GUI (1)_33: 6027493387062431554
+      GUI (1)_34: 6057982848053579121
+      GUI (1)_35: -3630758569279618389
+      GUI (1)_36: -3888092679692623267
+      GUI (1)_37: -8355865183417131007
+      GUI (1)_38: -6742270728771310786
+      GUI (1)_39: 3224225775557578089
+      GUI (1)_4: 3653220829756051887
+      GUI (1)_40: -8730384023556202799
+      GUI (1)_41: -5035379148223221133
+      GUI (1)_42: 4526028993640987234
+      GUI (1)_43: -8904771890673367525
+      GUI (1)_44: -288452383173124279
+      GUI (1)_45: -3628350922996997436
+      GUI (1)_46: 174548091621994911
+      GUI (1)_47: 1519412064832660841
+      GUI (1)_48: 7502133979192547300
+      GUI (1)_49: -9019766048095911177
+      GUI (1)_5: -8275659663296216052
+      GUI (1)_50: 6558772544965984583
+      GUI (1)_51: -793672302842035701
+      GUI (1)_52: -5145402735167640444
+      GUI (1)_53: -9172161166913081256
+      GUI (1)_54: -710794067275419824
+      GUI (1)_55: 123606532663048679
+      GUI (1)_56: -7765564165589865652
+      GUI (1)_57: -3121290922212858888
+      GUI (1)_58: -8876438826079032182
+      GUI (1)_59: -5912179813827190261
+      GUI (1)_6: -2445986025953530473
+      GUI (1)_60: 972256183163901480
+      GUI (1)_61: -9171536353546451608
+      GUI (1)_62: 846894571271562281
+      GUI (1)_63: 896471751425445149
+      GUI (1)_64: 1698077262427261732
+      GUI (1)_65: -8348756676492359116
+      GUI (1)_66: 8269387327340697597
+      GUI (1)_67: 2861221316432593632
+      GUI (1)_68: -2036087850276431900
+      GUI (1)_69: -4511278650360531095
+      GUI (1)_7: 5279132733286635197
+      GUI (1)_70: 1700862238130727447
+      GUI (1)_71: -3071384201318703936
+      GUI (1)_72: 9007881804263776350
+      GUI (1)_73: -1074900109088455434
+      GUI (1)_74: -715439685074290143
+      GUI (1)_75: -1405051919322087677
+      GUI (1)_76: 2828665091571453432
+      GUI (1)_77: -3646650374194917465
+      GUI (1)_78: 1813880864989424299
+      GUI (1)_79: -1985627302623562666
+      GUI (1)_8: -2821471752700759180
+      GUI (1)_80: 4001492879385954922
+      GUI (1)_81: 6041738135880556294
+      GUI (1)_82: 3241177914730617425
+      GUI (1)_83: 8413506712124723886
+      GUI (1)_84: 1305452432421807500
+      GUI (1)_85: -7982532054943264677
+      GUI (1)_86: 7971510055407988723
+      GUI (1)_87: 4015744099127787690
+      GUI (1)_88: 242571269544482948
+      GUI (1)_89: 6040440447043274650
+      GUI (1)_9: -7242835957605094056
+      GUI (1)_90: 1397364072790615076
+      GUI (1)_91: -7034069215636717934
+      GUI (1)_92: 3969638688648177187
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
