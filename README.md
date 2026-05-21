@@ -26,3 +26,6 @@ A 2D puzzle platformer built in **Unity** with **C#**, that's centered aorund a 
   `GameManager`, `InventoryManager`, `LevelManager`, and `AudioManager` persist across scenes using `DontDestroyOnLoad`, with `BindUIReferences()` called after each scene load to reconnect UI elements.
 - **2D physics & detection —**
   Using OverlapCircleAll for merge range detection and OverlapCircle for ground and water checks, with layer-based collision toggling for invulnerability i-frames.
+
+  ## Preview
+  ![Gameplay GIF](Media/splitshift-protocol.gif)
